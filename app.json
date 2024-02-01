@@ -16,6 +16,9 @@
       ]
     ],
     "name": "laada-ma",
-    "slug": "laada-ma"
+    "slug": "laada-ma",
+    "experiments": {
+      "typedRoutes": true
+    }
   }
 }
